@@ -1,0 +1,13 @@
+#area{
+    box-sizing: border-box;
+    background-color: rgb(196, 141, 247);
+    font-size: larger;
+    color: white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+body{
+    background-color: blueviolet;
+}
